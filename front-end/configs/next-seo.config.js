@@ -2,7 +2,7 @@ const NextSeoConfig = {
   title: null,
   titleTemplate: "%s | CASINO",
   defaultTitle: "CASINO",
-  description: "Casino Experience luxury and excitement with the biggest casino. Fast support, big bonuses of the day.",
+  description: "Casino Experience luxury and excitement with the biggest casino. Fast support, big bonuses of the day",
   additionalMetaTags: [
     {
       property: "keywords",
