@@ -1,8 +1,8 @@
 const NextSeoConfig = {
   title: null,
-  titleTemplate: "%s | PARI MACAU 379",
-  defaultTitle: "PARI MACAU 379",
-  description: "PARI MACAU 379 - Hệ thống chơi xổ số trực tuyến",
+  titleTemplate: "%s | CASINO",
+  defaultTitle: "CASINO",
+  description: "Casino Experience luxury and excitement with the biggest casino. Fast support, big bonuses of the day.",
   additionalMetaTags: [
     {
       property: "keywords",
@@ -23,11 +23,11 @@ const NextSeoConfig = {
     type: "website",
     locale: "vi_VN",
     url: process.env.NEXTAUTH_URL,
-    siteName: "PARI MACAU 379",
-    description: "PARI MACAU 379",
+    siteName: "CASINO",
+    description: "CASINO",
     images: [
       {
-        url: "https://i.ibb.co/0cQnxF3/bannerimg.jpg",
+        url: "https://i.ibb.co/hF5zPFKv/logo.jpg",
         width: 1200,
         height: 628,
       },
