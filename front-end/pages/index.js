@@ -84,20 +84,6 @@ const Home = () => {
 
   const LIST_GAME = [
     {
-      title: t("LOTTERY 3M"),
-      desc: t("Guess the number to win"),
-      img: XoSo3P,
-      link: "/games/xoso3p",
-      active: games["xoso3P"] !== "inactive",
-    },
-    {
-      title: t("LOTTERY 5M"),
-      desc: t("Guess the number to win"),
-      img: XoSo5P,
-      link: "/games/xoso5p",
-      active: games["xoso5P"] !== "inactive",
-    },
-    {
       title: t("KENO 1M"),
       desc: t("Guess the marbles to win"),
       img: Keno1P,
@@ -117,6 +103,20 @@ const Home = () => {
       img: Keno5P,
       link: "/games/keno5p",
       active: games["keno5P"] !== "inactive",
+    },
+    {
+      title: t("LOTTERY 3M"),
+      desc: t("Guess the number to win"),
+      img: XoSo3P,
+      link: "/games/xoso3p",
+      active: games["xoso3P"] !== "inactive",
+    },
+    {
+      title: t("LOTTERY 5M"),
+      desc: t("Guess the number to win"),
+      img: XoSo5P,
+      link: "/games/xoso5p",
+      active: games["xoso5P"] !== "inactive",
     },
     {
       title: t("DICE 1M"),
