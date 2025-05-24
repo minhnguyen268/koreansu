@@ -42,3 +42,7 @@ textarea {
   resize: vertical;
   font-family: "Noto Sans", "League Spartan", "Bebas Neue", "IBM Plex Sans", "Poppins", sans-serif;
 }
+.huongdan a {
+  color: red;
+  font-weight: bold;
+}
